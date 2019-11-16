@@ -1,0 +1,19 @@
+{
+  "name": "magent",
+  "version": "1.0.0",
+  "description": "Mobile agent backend server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DYT",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "knex": "^0.20.1",
+    "morgan": "^1.9.1",
+    "mysql": "^2.17.1",
+    "network": "^0.4.1",
+    "os": "^0.1.1"
+  }
+}
